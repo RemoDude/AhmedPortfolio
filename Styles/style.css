@@ -1111,8 +1111,12 @@ margin-right: 50px;
     font-size: 15px;
     margin-top: 15px;
     margin-right: -20px;
-
   }
+
+	  .details{
+    margin-top: -55px;
+  }
+
 
 .my_details_about{
   font-size: 18px;
